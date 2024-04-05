@@ -1,0 +1,128 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .headmid{
+        margin: 0px auto;
+    }
+    nav{
+        display: none;
+    }
+    .head figure{
+        flex-basis: 50%;
+    }
+    .midside{
+        display: none;
+    }
+    .midcontent{
+        margin-left: 10px;
+    }
+    .contentupper{
+        text-align: center;
+        font-size: 10px;
+    }
+    .midcontent h2{
+        font-size: 34px;
+        line-height: 37px;
+    }
+    .midcontent button{
+        margin: 0px;
+    }
+    .midcontent button a {
+        font-size: 11px;
+    }
+    .midcontent >p{
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .content{
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    .contentimg{
+        width: 50px;
+        height: 50px;
+    }
+    .contentimg img{
+        top: 8px;
+        left: 3px;
+        height: 35px;
+    }
+    .who{
+        flex-direction: column;
+        padding: 0px;
+    }
+    .who article{
+        flex-direction: column;
+    }
+    .who aside span{
+        line-height: 90px;
+    }
+    .who aside h2{
+        font-size: 32px;
+        margin: 0px;
+        line-height: 35px;
+    }
+    .number{
+        font-size: 50px;
+        text-align: center;
+    }
+    .lefttext span{
+        position: inherit;
+        font-size: 70px;
+    }
+    .uptownabout{
+        flex-direction: column;
+        margin: 20px 10px;
+        
+    }
+    .facts{
+        flex-direction: column;
+        margin: 50px 30px;
+    }
+    .Offering{
+        flex-direction: column;
+    }
+    .offerhead{
+        flex-direction: column;
+    }
+    .project{
+        flex-direction: column;
+    }
+    .elementor{
+        flex-direction: column;
+    }
+    .videotext{
+        margin-left: 25px;
+
+    }
+    .Impression{
+        flex-direction: column;
+    } 
+    .Goal{
+        flex-direction: column;
+    }
+    .successicon{
+        flex-direction: column;
+    }
+    .Competitive{
+        flex-direction: column;
+    }
+    .Advantages2{
+        flex-direction: column;
+    }
+    .footermain >h2{
+        margin: 0px 40px;
+    }
+    .footercontain{
+        flex-direction: column;
+    }
+    .footercontain21{
+        margin-bottom: 55px;
+    }
+    .container3{
+        margin-left: 50px;
+    }
+    .footer2{
+        flex-direction: column;
+        margin-left: 30px;
+        margin-bottom: 30px;
+    }
+}
